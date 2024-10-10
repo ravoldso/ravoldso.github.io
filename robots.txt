@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ravoldso.github.io/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/app/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/assets/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/css/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/includes/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/item/sitemap.html.gz
+Sitemap: https://ravoldso.github.io/src/sitemap.html.gz
